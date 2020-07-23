@@ -1,5 +1,5 @@
 # devNursery
-### by Alex Merced of AlexMercedCoder.com
+### by julie fryer
 
 ## Project Summary
 
